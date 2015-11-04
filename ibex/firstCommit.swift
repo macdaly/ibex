@@ -9,3 +9,4 @@
 import Foundation
 
 // Charlotte is learning GIT
+// Git c'est cool
